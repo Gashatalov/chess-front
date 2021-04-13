@@ -1,0 +1,24 @@
+.play-zone__button {
+  font-family: 'Inter', Arial, sans-serif;
+  display: inline-block;
+  color: gray;
+  font-weight: 700;
+  text-decoration: none;
+  user-select: none;
+  padding: .5em 2em;
+  outline: none;
+  border: 2px solid;
+  border-radius: 1px;
+  transition: 0.2s;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin: 5px;
+}
+.play-zone__button:hover {
+  background: #8C612B;
+  color: white;
+}
+
+.play-zone__button:active {
+  background: grey;
+}

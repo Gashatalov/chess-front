@@ -1,0 +1,10 @@
+.footer__copyright {
+font-family: 'Jost', Arial, sans-serif;
+font-weight: 400;
+font-size: 18px;
+color: #fff;
+margin: 0;
+max-width: 600px;
+line-height: 26px;
+padding-left: 20px;
+}

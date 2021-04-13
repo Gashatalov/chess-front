@@ -1,0 +1,16 @@
+.description__link {
+  display: block;
+  font-family: 'jost', Arial, sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  color: #8C612B;
+  text-decoration: none;
+  transition: 0.2s;
+  padding-bottom: 50px;
+
+
+}
+
+.description__link:hover{
+  opacity: 0.5;
+}

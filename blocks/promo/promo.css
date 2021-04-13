@@ -1,0 +1,5 @@
+.promo {
+  display: flex;
+  align-items: flex-start;
+  padding: 70px;
+}

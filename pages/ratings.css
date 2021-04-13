@@ -1,0 +1,73 @@
+@import url('../vendor/normalize.css');
+
+@import url('../vendor/fonts/fonts.css');
+
+@import url('../blocks/root/root.css');
+
+@import url('../blocks/auth/auth.css');
+
+@import url('../blocks/reg/reg.css');
+
+@import url('../blocks/nav/nav.css');
+@import url('../blocks/nav/__item/nav__item.css');
+
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/nav/__item/__item_footer/nav__item_footer.css');
+@import url('../blocks/footer/__copyright/footer__copyright.css');
+@import url('../blocks/nav/nav_footer.css');
+
+@import url('../blocks/header-slave/header-slave.css');
+@import url('../blocks/header-slave/__title/header-slave__title.css');
+@import url('../blocks/header-slave/__logo/header-slave__logo.css');
+
+@import url('../blocks/description/__title/description__title.css');
+@import url('../blocks/description/__text/description__text.css');
+@import url('../blocks/description/description.css');
+@import url('../blocks/description/description_tournament.css');
+@import url('../blocks/description/__container/description__container.css');
+@import url('../blocks/description/__link/description__link.css');
+
+@import url('../blocks/rating/rating.css');
+
+.table {
+	width: 100%;
+	border: none;
+	margin-bottom: 20px;
+
+}
+.table thead th {
+	font-weight: bold;
+	text-align: left;
+	border: none;
+	padding: 10px 15px;
+	background: #d8d8d8;
+
+  font-family: 'Inter', Arial, sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+}
+.table thead tr th:first-child {
+	border-radius: 8px 0 0 8px;
+}
+.table thead tr th:last-child {
+	border-radius: 0 8px 8px 0;
+}
+.table tbody td {
+	text-align: left;
+	border: none;
+	padding: 10px 15px;
+	font-size: 14px;
+	vertical-align: top;
+  font-family: 'Inter', Arial, sans-serif;
+  font-size: 20px;
+  line-height: 30px;
+}
+.table tbody tr:nth-child(even){
+	background: #f3f3f3;
+}
+.table tbody tr td:first-child {
+	border-radius: 8px 0 0 8px;
+}
+.table tbody tr td:last-child {
+	border-radius: 0 8px 8px 0;
+}

@@ -1,0 +1,30 @@
+@import url('../vendor/normalize.css');
+
+@import url('../vendor/fonts/fonts.css');
+
+@import url('../blocks/root/root.css');
+
+@import url('../blocks/auth/auth.css');
+
+@import url('../blocks/reg/reg.css');
+
+@import url('../blocks/nav/nav.css');
+@import url('../blocks/nav/__item/nav__item.css');
+
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/nav/__item/__item_footer/nav__item_footer.css');
+@import url('../blocks/footer/__copyright/footer__copyright.css');
+@import url('../blocks/nav/nav_footer.css');
+
+@import url('../blocks/header-slave/header-slave.css');
+@import url('../blocks/header-slave/__title/header-slave__title.css');
+@import url('../blocks/header-slave/__logo/header-slave__logo.css');
+
+@import url('../blocks/description/__title/description__title.css');
+@import url('../blocks/description/__text/description__text.css');
+@import url('../blocks/description/description.css');
+@import url('../blocks/description/description_tournament.css');
+@import url('../blocks/description/__container/description__container.css');
+@import url('../blocks/description/__link/description__link.css');
+
+@import url('../blocks/tournement-table/tournament-table.css');

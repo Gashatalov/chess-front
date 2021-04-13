@@ -1,0 +1,8 @@
+.download {
+  display: flex;
+  align-items: center;
+  padding: 30px 10px;
+
+
+  max-height: 50px;
+}

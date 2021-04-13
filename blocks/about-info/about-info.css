@@ -1,0 +1,26 @@
+.about-info {
+  display: grid;
+  grid-template-areas: "header header"
+                       "text text"
+                       "image1 image2" ;
+
+  gap: 20px;
+  grid-template-columns: 1fr 1fr;
+
+}
+
+.grid-header {
+  grid-area: header;
+}
+
+.grid-text {
+  grid-area: text;
+}
+
+.grid-image1 {
+  grid-area: image1;
+}
+
+.grid-image2 {
+  grid-area: image2;
+}

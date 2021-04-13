@@ -1,0 +1,15 @@
+.header-slave__title {
+  font-family: 'jost', Arial, sans-serif;
+  font-weight: 900;
+  font-size: 36px;
+  color: #49423d;
+  margin: 0;
+
+  line-height: 1.2;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+
+
+}
